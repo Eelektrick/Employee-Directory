@@ -35,7 +35,7 @@ getting all information to appear correctly from the API and alot of typos for t
 
 # Link
 
-[Link to Website]()
+[Link to Website](https://eelektrick.github.io/Employee-Directory/)
 
 # Screenshot
 
