@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Pupster 2017</span>
+      &copy; Copyright Employee Directory: Corey Post 2020
     </footer>
   );
 }
