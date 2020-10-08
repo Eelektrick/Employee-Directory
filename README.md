@@ -39,5 +39,5 @@ getting all information to appear correctly from the API and alot of typos for t
 
 # Screenshot
 
-![screenshot of directory](./Assets/employee.PNG)
-![screenshot of directory search result](./Assets/result.PNG)
+![screenshot of directory](./EmployeeDirectory/Assets/employee.PNG)
+![screenshot of directory search result](./EmployeeDirectory/Assets/result.PNG)
